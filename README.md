@@ -1,5 +1,5 @@
-# [tbd, manuscript title]  
-*A manuscript by...*
+# [alpine hydro project]  
+*Hansen, C.L., Hamilton, T.L., Miller, J.B., Murugapiran, S.K., Frisbee, M.D. [order_tbd]*
 
 ## Overview
 *[tbd]*
