@@ -1,4 +1,4 @@
-# [alpine hydro project]  
+# Microorganisms on the Move: Tracing Alpine Glacier Meltwater Contributions to Mountain-Block Recharge  
 *Hansen, C.L., Hamilton, T.L., Miller, J.B., Murugapiran, S.K., Frisbee, M.D. [order_tbd]*
 
 ## Overview
