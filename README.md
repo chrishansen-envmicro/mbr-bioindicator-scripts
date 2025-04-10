@@ -1,10 +1,10 @@
-# Microorganisms on the Move: Tracing Alpine Glacier Meltwater Contributions to Mountain-Block Recharge [working_apine-hydro_title]
+# [alpine hydro project]
 *Hansen, C.L., Hamilton, T.L., Miller, J.B., Murugapiran, S.K., Frisbee, M.D. [order_tbd]*
 
 ## Overview
 *[tbd]*
 
-## Repository Structure
+## Repository structure
 - `data/` – Input datasets (raw or processed)
 - `scripts/` – R scripts for preprocessing, analysis, and figure generation
 - `figures/` – Output figures used in the manuscript
